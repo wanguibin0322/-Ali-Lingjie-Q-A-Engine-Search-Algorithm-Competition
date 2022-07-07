@@ -1,0 +1,3 @@
+This text is included to make sure Unicode is handled properly: 力加勝北区ᴵᴺᵀᵃছজটডণত
+Text should be one-sentence-per-line, with empty lines between documents.
+This sample text is public domain and was randomly selected from Project Guttenberg.

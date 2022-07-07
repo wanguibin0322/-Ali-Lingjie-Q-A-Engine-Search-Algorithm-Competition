@@ -1,0 +1,2 @@
+source run_pretrain_data_generator.sh
+source run_pretrain.sh
