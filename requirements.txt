@@ -1,0 +1,13 @@
+apex==0.9.10dev
+datasets==2.0.0
+deepspeed==0.6.0
+fairscale==0.4.6
+filelock==3.4.1
+numpy==1.19.5
+packaging==21.3
+scikit_learn==0.24.2
+torch==1.10.2
+tqdm==4.61.2
+transformers==4.17.0
+pypinyin
+zhconv
